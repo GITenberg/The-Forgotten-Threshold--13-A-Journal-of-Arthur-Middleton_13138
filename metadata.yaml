@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3022
     wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13138#The-Forgotten-Threshold--13-A-Journal-of-Arthur-Middleton
 gutenberg_issued: '2004-08-08'
 gutenberg_type: Text
 identifiers:
